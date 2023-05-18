@@ -59,9 +59,9 @@ public class MainActivity extends AppCompatActivity {
 
         // Create sample contacts
         contactList = new ArrayList<>();
-        contactList.add(new Contact("John Doe", "1234567890"));
-        contactList.add(new Contact("Jane Smith", "0987654321"));
-        contactList.add(new Contact("Michael Johnson", "9876543210"));
+        contactList.add(new Contact("Abdul Moeed", "420"));
+        contactList.add(new Contact("Omer Farooq", "123"));
+        contactList.add(new Contact("M. Shahzaib", "456"));
 
         // Set up the ListView
         contactListView = findViewById(R.id.contactListView);
